@@ -4,7 +4,7 @@
 The purpose of this repo is to contain the cpp files for each lessons in this tutorial.
 by dividing into 24 lessons as
 1. [The Easiest Guide to Understand and Learn C++ Basics](./Lesson%20-%201/)
-2. All You need to Know About Classes in C++
+2. [All You need to Know About Classes in C++](./Lesson%20-%202/)
 3. The Difference Between C++ and C
 4. The Ultimate Guide to Learn About C++ Enum
 5. An Easy Guide To Understand The C++ Array
