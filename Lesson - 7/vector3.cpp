@@ -34,5 +34,11 @@ int main() {
 
     cout << "Vector Size | Vector Capacity | Maximum Size" << endl;
     cout << testVector.size() << " | " << testVector.capacity() << " | " << testVector.max_size() << endl;
+    
+    testVector.clear();
+    cout << "Clearing vector" << endl;
+
+    cout << "Vector Size | Vector Capacity | Maximum Size" << endl;
+    cout << testVector.size() << " | " << testVector.capacity() << " | " << testVector.max_size() << endl;
     return 0;
 }
