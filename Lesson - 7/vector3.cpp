@@ -23,5 +23,16 @@ int main() {
     cout << "Vector Size | Vector Capacity | Maximum Size" << endl;
     cout << testVector.size() << " | " << testVector.capacity() << " | " << testVector.max_size() << endl;
     
+    testVector.assign(17, 9);
+    cout << "Assinging 17 elements" << endl;
+
+    cout << "Vector Size | Vector Capacity | Maximum Size" << endl;
+    cout << testVector.size() << " | " << testVector.capacity() << " | " << testVector.max_size() << endl;
     
+    testVector.assign(100, 9);
+    cout << "Assinging 100 elements" << endl;
+
+    cout << "Vector Size | Vector Capacity | Maximum Size" << endl;
+    cout << testVector.size() << " | " << testVector.capacity() << " | " << testVector.max_size() << endl;
+    return 0;
 }
