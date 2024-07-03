@@ -8,8 +8,8 @@ by dividing into 24 lessons as
 3. The Difference Between C++ and C
 4. [The Ultimate Guide to Learn About C++ Enum](./Lesson%20-%204/)
 5. [An Easy Guide To Understand The C++ Array](./Lesson%20-%205/)
-6. The Best Guide to C++ For Loop : For Loops Made Easy
-7. Everything You Need to Know About C++ Vector
+6. The Best Guide to C++ For Loop : For Loops Made Easy (Skipped)
+7. [Everything You Need to Know About C++ Vector](./Lesson%20-%207/)
 8. The Easiest Way to Understand C++ Funtions
 9. Call by Value and Call by Reference in C++
 10. The Ultimate Step-by-Step Guide to Learn Pointers in C++
