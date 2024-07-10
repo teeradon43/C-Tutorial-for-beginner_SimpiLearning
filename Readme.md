@@ -20,7 +20,7 @@ by dividing into 24 lessons as
 15. C++ vs. Python: Everything You Need to Know
 16. [What Is Sorting in C++: Bubble Sort, Insertion Sort & More](./Lesson%20-%2016/)
 17. The Best Explanation to Break and Continue Statements in C++
-18. The Best Guide to Understand C++ Header Files
+18. [The Best Guide to Understand C++ Header Files](./Lesson%20-%2018/)
 19. [C++ Recursion: Understanding Its Concept and Working](./Lesson%20-%2019/)
 20. [Top 60 C++ Interview Questions and Answers for 2024](./Lesson%20-%2020/)
 21. C# Vs. Java: Which Is the Best Programming Language?
